@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Frank Taylor",
+    "longName": "Metronome",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Metronome",
+    "uuid": "70fabfa9-fae9-4639-ae27-6197146235d4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
